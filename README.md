@@ -29,6 +29,11 @@ Caso a playlist selecionada seja trocada enquanto uma música é tocada, ao cheg
 
 Também é possível clicar duas vezes em uma música da playlist para iniciar sua reprodução.
 
+Há um slider horizontal na área inferior do widget indicando o progresso da música. É possível arrastar esse slider para adiantar ou voltar a música atual.
+
+Há também um slider vertical para controle de volume.
+
+
 ### Salvar alterações
 
 Ao clicar no botão "Salvar alterações", a playlist atualmente selecionada será armazenada com os itens indicados na lista à esquerda. Caso o usuário crie ou remova uma playlist, não é necessário salvar pois o programa já o faz automaticamente.
